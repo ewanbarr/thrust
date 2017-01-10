@@ -57,7 +57,7 @@ namespace thrust
  *  ...
  *  int x = 1;
  *  int y = 2;
- *  thrust::swap(x,h);
+ *  thrust::swap(x,y);
  *
  *  // x == 2, y == 1
  *  \endcode
